@@ -79,9 +79,9 @@ def end_game():
 
 def main():
     """Run the main block of code."""
-    hello = ["Welcome to the table...",
-             "Good to see you!",
-             "Let's play!"]
+    hello = ["Welcome to the table Henry...",
+             "Good to see you Henry!",
+             "Let's play Henry!"]
     print(random.choice(hello))
     num()
     print("The house has selected it's number...")
